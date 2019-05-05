@@ -3,8 +3,7 @@
 <%@ page import="java.util.*" %>
 <%@ page import="de.umass.lastfm.*" %>
 
-<html>
-	
+<html>	
 	<body>
 		Artist : <%= request.getAttribute("artist")%>
 		<table>
